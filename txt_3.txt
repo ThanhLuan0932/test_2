@@ -1,1 +1,2 @@
 dòng test của A
+dòng test của B
